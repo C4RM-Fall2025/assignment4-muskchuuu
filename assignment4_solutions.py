@@ -1,7 +1,7 @@
 
 # Identify yourself for grading
 def WhoAmI():
-    return 'djr2132'
+    return 'tc3394'
 
 # ---------------- Bond Pricing (flat yield) ----------------
 def getBondPrice(y, face, couponRate, m, ppy=1):
